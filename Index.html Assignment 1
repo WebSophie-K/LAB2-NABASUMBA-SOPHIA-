@@ -1,0 +1,52 @@
+https://github.com/WebSophie-K/LAB2-NABASUMBA-SOPHIA-.git
+<!DOCTYPE html>
+<html> 
+<head>
+     <title>My university website</title></head>
+
+
+  <body>
+        <h1>My university website</h1>
+        <p>Welcome to my university website.<br>
+This website provides information about the university, its programs, news and events.</p>
+    <a href="https://www.google.com">Visit Google </a> 
+    <h2>Our Programs</h2>
+
+    <ol>
+       <li>Bachelor of information Technology</li>
+       <li>Bachelor of computer science</li>
+        <li>Bachelor of Software Engineering</li>
+</ol>
+<h2>University services</h2>            
+    
+    
+<ul>                                         <li>Library</li>
+   <li>Student portal</li>
+   <li>Computer labaratory</li> 
+   <li>Student Support</li>
+</ul>
+<h2>University Campus</h2>
+
+  <img
+   src="https://www.w3schools.com/w3images/school.jpg" alt="University Campus"
+width="300">
+<hr>
+<h3>Contact information</h3>
+<p><strong>Email:</strong>info@my university.com</p>
+<p><strong>Phone:</strong>+256 700 237 809</p>
+    
+
+    
+      
+</body>
+</html>
+
+  
+    
+
+  
+    
+    
+    
+  
+       
